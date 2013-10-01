@@ -1,4 +1,4 @@
-LaTeXAddIn
+![LaTeXAddIn](http://liriver.github.io/LaTeXAddIn)
 ==========
 
 ![screenshot](https://github.com/liriver/LaTeXAddIn/raw/master/tab.png)
