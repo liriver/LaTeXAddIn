@@ -1,6 +1,8 @@
 LaTeXAddIn
 ==========
 
+![screenshot](https://github.com/liriver/LaTeXAddIn/raw/master/tab.png)
+
 LaTeXAddIn is a ribbon Add-In for Microsoft Excel 2007~2013 to convert the data in Excel to a LaTeX table environment.
 
 The Add-In is developed in C# with Microsoft Visual Studio 2010.
